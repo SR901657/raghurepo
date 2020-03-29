@@ -25,6 +25,6 @@
 
 	</dependencies>
 	<build>
-		<finalName>firstOpenshift</finalName>
+		<finalName>ROOT</finalName>
 	</build>
 </project>
